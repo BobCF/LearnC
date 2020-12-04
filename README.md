@@ -1,4 +1,7 @@
 # LearnC
+## Book
+  - https://www.amazon.com/Beautiful-Code-Leading-Programmers-Practice-ebook/dp/B0026OR2NG
+
 ## OOP in C
   - https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf
   - https://lwn.net/Articles/444910/
